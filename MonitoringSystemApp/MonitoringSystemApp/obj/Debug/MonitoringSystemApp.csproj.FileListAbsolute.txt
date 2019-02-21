@@ -1,0 +1,76 @@
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/MonitoringSystemApp.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/MonitoringSystemApp.pdb
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Newtonsoft.Json.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Auth.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Core.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Newtonsoft.Json.xml
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Core.xml
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MainPage.xaml.g.cs
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/App.xaml.g.cs
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.csproj.CoreCompileInputs.cache
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/XamlC.stamp
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.pdb
+c:/apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/Views/LoginPage/LoginPage.xaml.g.cs
+c:/apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/Views/LogsPage.xaml.g.cs
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.csprojResolveAssemblyReference.cache
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Mono.Android.dll
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Mono.Android.pdb
+C:/Apps/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Mono.Android.xml
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/MonitoringSystemApp.dll
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/MonitoringSystemApp.pdb
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Auth.dll
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.csprojAssemblyReference.cache
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MainPage.xaml.g.cs
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/App.xaml.g.cs
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/Views/LoginPage/LoginPage.xaml.g.cs
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/Views/LogsPage.xaml.g.cs
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.csproj.CoreCompileInputs.cache
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/XamlC.stamp
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.csproj.CopyComplete
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.dll
+C:/Users/Nikhil/Desktop/MonitoringSystemApp/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.pdb
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.csprojAssemblyReference.cache
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MainPage.xaml.g.cs
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/App.xaml.g.cs
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/Views/LoginPage/LoginPage.xaml.g.cs
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/Views/LogsPage.xaml.g.cs
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.csproj.CoreCompileInputs.cache
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.dll
+/Volumes/ADATA UFD/MonitoringSystemApp - Copy/MonitoringSystemApp/MonitoringSystemApp/obj/Debug/MonitoringSystemApp.pdb
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\MonitoringSystemApp.dll
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\MonitoringSystemApp.pdb
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Newtonsoft.Json.dll
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Auth.dll
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Forms.Core.dll
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Forms.Platform.dll
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Newtonsoft.Json.xml
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Forms.Core.pdb
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Forms.Core.xml
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\MonitoringSystemApp.csprojAssemblyReference.cache
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\MainPage.xaml.g.cs
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\App.xaml.g.cs
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\Views\LoginPage\LoginPage.xaml.g.cs
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\Views\LogsPage.xaml.g.cs
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\MonitoringSystemApp.csproj.CoreCompileInputs.cache
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\XamlC.stamp
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\MonitoringSystemApp.csproj.CopyComplete
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\MonitoringSystemApp.dll
+F:\MonitoringSystemApp - Copy\MonitoringSystemApp\MonitoringSystemApp\obj\Debug\MonitoringSystemApp.pdb

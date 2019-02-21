@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MonitoringSystemApp.Views.LogsPage">
+	<ContentPage.Content>
+
+		<StackLayout Spacing="10" Padding="10">
+			<Label x:Name="unLabel"
+                FontSize="Large"
+                HorizontalOptions="Center"/>
+			<Button x:Name="btnStop" Text="Stop" Clicked="btnStop_Clicked"/>
+			<Label Text="Server Logs" FontSize="Medium"/>
+			<StackLayout>
+				<ListView x:Name="listLogs" ItemsSource="{Binding Logs}">
+					<ListView.ItemTemplate>
+						<DataTemplate>
+							<ImageCell Text="{Binding Name}" Detail="{Binding DateTime}" ImageSource="{Binding Icon}">
+							</ImageCell>
+						</DataTemplate>
+					</ListView.ItemTemplate>
+				</ListView>
+			</StackLayout>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                  xmlns:menu="clr-namespace:ManageProfileApp.Views.Menu"
+                  xmlns:ContentPage="clr-namespace:ManageProfileApp.Views.DetailsView"
+                  x:Class="ManageProfileApp.Views.Menu.MasterDetails">
+    <MasterDetailPage.Master>
+        <menu:SettingsPage x:Name="settingspage"/>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <ContentPage:Details/>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

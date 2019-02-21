@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MonitoringSystemApp.Views.LoginPage.LoginPage">
+    <ContentPage.Content>
+		<StackLayout VerticalOptions = "Center" 
+                 Margin="20">
+			<Label Text="Login" FontSize="25" HorizontalOptions="CenterAndExpand" />
+			<Entry x:Name="unEntry" Placeholder="Username"/>
+			<Entry x:Name="pwdEntry" Placeholder="Password" IsPassword="False"/>
+			<Button x:Name="loginButton" Text="Login" Clicked="LoginButton_Clicked" />
+			<StackLayout Orientation="Horizontal" Margin="10">
+				<Label Text="Remember Me" FontSize="18"></Label>
+				<Switch x:Name="rememberBox" HeightRequest="10" HorizontalOptions="EndAndExpand" Toggled="rememberBox_Toggled" IsToggled="True"></Switch>
+			</StackLayout>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
